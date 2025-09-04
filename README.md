@@ -8,10 +8,11 @@
 
 
 ### Add / Edit Employee
-![Employee Form](https://github.com/user-attachments/assets/6aa2e7db-92a1-4bfc-ac1a-e55b69a9c196)
+![Employee Form](https://github.com/user-attachments/assets/74f0853e-1362-45f7-928c-178ef4bddd48)
 
 ### Delete Confirmation
-![Delete Confirmation](https://github.com/user-attachments/assets/74f0853e-1362-45f7-928c-178ef4bddd48)
+![Delete Confirmation](https://github.com/user-attachments/assets/38c4991b-940c-4427-b5eb-1434d4ce22c6)
+
 
 ---
 
